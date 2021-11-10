@@ -40,5 +40,9 @@
       "value": 32,
       "type": "spacing"
     }
+  },
+  "Green": {
+    "value": "#35aa4e",
+    "type": "color"
   }
 }
