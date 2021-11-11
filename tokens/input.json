@@ -46,7 +46,7 @@
     }
   },
   "primary": {
-    "value": "green",
+    "value": "red",
     "type": "color"
   }
 }
