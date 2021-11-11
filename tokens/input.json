@@ -44,5 +44,9 @@
       "value": 32,
       "type": "spacing"
     }
+  },
+  "primary": {
+    "value": "green",
+    "type": "color"
   }
 }
