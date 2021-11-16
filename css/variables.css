@@ -1,18 +1,24 @@
 /**
  * Do not edit directly
- * Generated on Mon, 15 Nov 2021 21:45:16 GMT
+ * Generated on Tue, 16 Nov 2021 22:50:26 GMT
  */
 
 :root {
   --colors-red-300: #FCA5A5;
   --colors-red-500: #EF4444;
   --colors-red-700: #B91C1C;
+  --colors-orange-300: #FF7700;
   --colors-black: #000000;
   --colors-white: #ffffff;
   --colors-green: #35aa4e;
-  --colors-primary: orange;
-  --spacing-sm: 4;
-  --spacing-md: 8;
-  --spacing-lg: 16;
-  --spacing-xl: 32;
+  --colors-primary: var(--colors-orange-300);
+  --colors-primary-raw: #FF7700;
+  --colors-secondary: var(--colors-red-500);
+  --colors-secondary-raw: #EF4444;
+  --size-sm: 1rem;
+  --size-md: 2rem;
+  --size-lg: 4rem;
+  --size-xl: 8rem;
+  --spacing-gap: var(--size-md);
+  --spacing-gap-raw: 2rem;
 }
