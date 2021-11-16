@@ -1,0 +1,10 @@
+{
+  "spacing": {
+    "gap": {
+      "value": "var(--size-md)"
+    },
+    "gap-raw": {
+      "value": "{size.md.value}"
+    }
+  }
+}

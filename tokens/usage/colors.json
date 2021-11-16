@@ -1,0 +1,16 @@
+{
+  "colors": {
+    "primary": {
+      "value": "var(--colors-orange-300)"
+    },
+    "primary-raw": {
+      "value": "{colors.orange.300.value}"
+    },
+    "secondary": {
+      "value": "var(--colors-red-500)"
+    },
+    "secondary-raw": {
+      "value": "{colors.red.500.value}"
+    }
+  }
+}
