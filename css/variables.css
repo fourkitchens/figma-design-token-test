@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Nov 2021 21:06:11 GMT
+ * Generated on Tue, 23 Nov 2021 22:14:26 GMT
  */
 
 :root {
@@ -18,10 +18,6 @@
   --spacing-11: 80;
   --spacing-12: 96;
   --spacing-13: 160;
-  --spacing-sm: 4;
-  --spacing-md: 8;
-  --spacing-lg: 16;
-  --spacing-xl: 32;
   --yale-gray-inactive-gray: #787069;
   --yale-gray-black-gray: #222222;
   --yale-gray-gray: #dddddd;
@@ -49,30 +45,30 @@
   --font-families-whitney: Whitney;
   --font-families-dm-sans: DM Sans;
   --font-families-mallory: Mallory;
-  --line-heights-0: 74.4;
-  --line-heights-1: 147.5%;
-  --line-heights-2: 175%;
-  --line-heights-3: 148%;
-  --line-heights-4: 120%;
-  --line-heights-5: 115%;
-  --line-heights-6: 140%;
-  --line-heights-7: 155%;
-  --line-heights-8: 145%;
-  --line-heights-9: 126%;
-  --line-heights-10: 165%;
-  --line-heights-11: 129%;
-  --line-heights-12: 100%;
-  --line-heights-13: 105%;
-  --line-heights-14: 110%;
-  --line-heights-15: 102%;
-  --line-heights-16: 104%;
-  --line-heights-17: AUTO;
-  --line-heights-18: 107%;
-  --line-heights-19: 128%;
-  --line-heights-20: 139%;
-  --line-heights-21: 150%;
-  --line-heights-22: 170%;
-  --line-heights-23: 130%;
+  --line-height-0: 74.4;
+  --line-height-1: 147.5%;
+  --line-height-2: 175%;
+  --line-height-3: 148%;
+  --line-height-4: 120%;
+  --line-height-5: 115%;
+  --line-height-6: 140%;
+  --line-height-7: 155%;
+  --line-height-8: 145%;
+  --line-height-9: 126%;
+  --line-height-10: 165%;
+  --line-height-11: 129%;
+  --line-height-12: 100%;
+  --line-height-13: 105%;
+  --line-height-14: 110%;
+  --line-height-15: 102%;
+  --line-height-16: 104%;
+  --line-height-17: AUTO;
+  --line-height-18: 107%;
+  --line-height-19: 128%;
+  --line-height-20: 139%;
+  --line-height-21: 150%;
+  --line-height-22: 170%;
+  --line-height-23: 130%;
   --yalenew-bold: Bold;
   --yalenew-roman: Roman;
   --font-weights-whitney-1: Medium;
@@ -788,8 +784,8 @@
   --mobile-body-mallory-p-small-condensed-paragraph-spacing: 10;
   --mobile-body-mallory-p-small-condensed-text-case: none;
   --mobile-body-mallory-p-small-condensed-text-decoration: none;
-  --text-case-none: none;
-  --text-case-uppercase: uppercase;
+  --none: none;
+  --uppercase: uppercase;
   --text-decoration-none: none;
   --border-1: 0.5;
   --border-2: 1;

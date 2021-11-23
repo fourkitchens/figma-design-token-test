@@ -55,22 +55,6 @@
     "13": {
       "value": 160,
       "type": "spacing"
-    },
-    "sm": {
-      "value": 4,
-      "type": "spacing"
-    },
-    "md": {
-      "value": 8,
-      "type": "spacing"
-    },
-    "lg": {
-      "value": 16,
-      "type": "spacing"
-    },
-    "xl": {
-      "value": 32,
-      "type": "spacing"
     }
   },
   "Yale": {
@@ -203,7 +187,7 @@
       "type": "fontFamilies"
     }
   },
-  "lineHeights": {
+  "lineHeight": {
     "0": {
       "value": 74.4,
       "type": "lineHeights"
@@ -2725,15 +2709,13 @@
       }
     }
   },
-  "textCase": {
-    "none": {
-      "value": "none",
-      "type": "textCase"
-    },
-    "uppercase": {
-      "value": "uppercase",
-      "type": "textCase"
-    }
+  "none": {
+    "value": "none",
+    "type": "textCase"
+  },
+  "uppercase": {
+    "value": "uppercase",
+    "type": "textCase"
   },
   "textDecoration": {
     "none": {
