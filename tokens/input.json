@@ -301,11 +301,17 @@
       "type": "lineHeights"
     }
   },
-  "fontWeights": {
-    "yalenew-0": {
+  "Yalenew": {
+    "Bold": {
       "value": "Bold",
       "type": "fontWeights"
     },
+    "Roman": {
+      "value": "Roman",
+      "type": "fontWeights"
+    }
+  },
+  "fontWeights": {
     "whitney-1": {
       "value": "Medium",
       "type": "fontWeights"
@@ -313,20 +319,18 @@
     "dm-sans-2": {
       "value": "Bold",
       "type": "fontWeights"
-    },
-    "yalenew-3": {
-      "value": "Roman",
-      "type": "fontWeights"
-    },
-    "mallory-4": {
+    }
+  },
+  "Mallory": {
+    "Book": {
       "value": "Book",
       "type": "fontWeights"
     },
-    "mallory-5": {
+    "Bold": {
       "value": "Bold",
       "type": "fontWeights"
     },
-    "mallory-6": {
+    "Medium": {
       "value": "Medium",
       "type": "fontWeights"
     }

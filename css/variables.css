@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Nov 2021 20:09:51 GMT
+ * Generated on Tue, 23 Nov 2021 21:06:11 GMT
  */
 
 :root {
@@ -73,13 +73,13 @@
   --line-heights-21: 150%;
   --line-heights-22: 170%;
   --line-heights-23: 130%;
-  --font-weights-yalenew-0: Bold;
+  --yalenew-bold: Bold;
+  --yalenew-roman: Roman;
   --font-weights-whitney-1: Medium;
   --font-weights-dm-sans-2: Bold;
-  --font-weights-yalenew-3: Roman;
-  --font-weights-mallory-4: Book;
-  --font-weights-mallory-5: Bold;
-  --font-weights-mallory-6: Medium;
+  --mallory-book: Book;
+  --mallory-bold: Bold;
+  --mallory-medium: Medium;
   --font-size-0: 13;
   --font-size-1: 14;
   --font-size-2: 15;
